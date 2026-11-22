@@ -1,0 +1,10 @@
+{
+  "name": "ARISE 1.3 — Financial Intelligence",
+  "short_name": "ARISE 1.3",
+  "description": "Mobile-first financial dashboard",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#080a0f",
+  "icons": []
+}
